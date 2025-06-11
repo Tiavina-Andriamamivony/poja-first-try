@@ -13,11 +13,6 @@ plugins {
     
 }
 
-application {
-    mainClass = 'com.prog.arith.PojaApplication'
-}
-
-
 jacoco {
     toolVersion = "0.8.11"
 }
