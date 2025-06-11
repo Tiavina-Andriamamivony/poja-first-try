@@ -21,7 +21,7 @@ public class PingController {
     return "pong";
   }
 
-  @GetMapping
+  @GetMapping("/hey")
   public String hey(){
     return "hey";
   }
