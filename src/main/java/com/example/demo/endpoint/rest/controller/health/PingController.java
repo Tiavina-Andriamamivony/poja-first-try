@@ -25,5 +25,4 @@ public class PingController {
   public String pang() {
     return "pang";
   }
-  
 }
